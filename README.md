@@ -17,5 +17,3 @@ Ingeniero de Sistemas y Desarrollador Backend enfocado en construir aplicaciones
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 Proyectos Destacados
-*Opcional: Aquí puedes poner una lista con viñetas hacia tus mejores repositorios más adelante.*
