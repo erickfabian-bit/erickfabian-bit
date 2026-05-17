@@ -20,5 +20,6 @@ Ingeniero de Sistemas y Desarrollador Backend enfocado en construir aplicaciones
 ## 🛠️ Proyectos Destacados
 
 - [Mining Cadaster Sync](https://github.com/erickfabian-bit/mining-cadaster-sync-service) 🌍 – Servicio en Spring Boot para la ingesta y sincronización automatizada de datos del Catastro Minero Nacional (INGEMMET).
+- [Widgets App](https://github.com/erickfabian-bit/widgets-app) 📱 – Aplicación móvil en Flutter y Dart estructurada bajo arquitectura limpia y gestión de estado reactiva.
 - [Lithos-design](https://github.com/erickfabian-bit/Lithos-design) 🗺️ – Dashboard administrativo e integración de catastro nacional con IA utilizando TypeScript.
 - [KAMACHIX](https://github.com/erickfabian-bit/KAMACHIX) 🚀 – Sistema robusto para el control y gestión de asistencia del personal.
