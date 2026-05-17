@@ -4,7 +4,7 @@ Ingeniero de Sistemas y Desarrollador Backend enfocado en construir aplicaciones
 
 ## 🚀 Lo que hago
 - **Backend Architecture:** Especializado en microservicios, APIs REST y arquitecturas limpias utilizando **Java (Spring Boot)** y **.NET (C#, ASP.NET Core)**.
-- **Mobile Development:** Creación de aplicaciones móviles modernas y fluidas con **React Native** y **Expo**.
+- **Mobile Development:** Creación de aplicaciones móviles modernas y fluidas con **React Native** **Expo** y **Flutter**.
 - **Cloud & DevOps:** Despliegue de infraestructura y pipelines automatizados con **Docker**, **Jenkins** y **Microsoft Azure** (App Services, Container Registry).
 - **GIS Integration:** Experiencia integrando datos espaciales y Sistemas de Información Geográfica (ArcGIS) en sistemas transaccionales complejos.
 
