@@ -17,3 +17,7 @@ Ingeniero de Sistemas y Desarrollador Backend enfocado en construir aplicaciones
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🛠️ Proyectos Destacados
+
+- [KAMACHIX](https://github.com/erickfabian-bit/KAMACHIX) 🚀 – Sistema robusto para el control y gestión de asistencia del personal.
+- [Lithos-design](https://github.com/erickfabian-bit/Lithos-design) 🗺️ – Dashboard administrativo e integración de catastro nacional con IA utilizando TypeScript.
